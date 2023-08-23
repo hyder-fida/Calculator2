@@ -1,0 +1,75 @@
+
+html.body{
+    height: 100%;
+    width: 100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+ .bg-red{
+    background-color: red;
+ }
+
+ .mx-auto{
+    margin: auto;
+ }
+ 
+ 
+ .button{
+    width: 66px;
+    padding: 10px;
+    margin: 0px 5px;
+ }
+
+ .flex{
+    display: flex;
+    margin: px 3px;
+    border:2px solid black ;
+    border-radius: 9px;
+    cursor: pointer;
+
+ }
+ .flex-col{
+    flex-direction: column;
+ }
+
+ .item-center{
+    align-items: center;
+    justify-content: center;
+ }
+ 
+ .row{
+    margin: 8px 0px;
+ }
+
+ .row input{
+    font-size: px;
+    margin: 0;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:251px ;
+    
+ }
+
+ .container{
+   background:#3787a4;
+   width: 380px;
+
+ }
+
+ .row button{
+   border-radius: 80px;
+ }
+
+ button:hover{
+   border-color: red;
+   background-color: antiquewhite;
+ }
+
+.ac{
+   background-color: rgb(2, 52, 52);
+ }
+ 
